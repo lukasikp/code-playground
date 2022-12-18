@@ -1,6 +1,6 @@
-# Turborepo starter
+# Code playground
 
-This is an official npm starter turborepo.
+Build with an official npm starter turborepo.
 
 ## What's inside?
 
