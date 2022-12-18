@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "workspaces": [
+    "react-guides",
     "apps/*",
     "packages/*"
   ],
@@ -15,6 +16,7 @@
   "devDependencies": {
     "eslint-config-custom": "*",
     "prettier": "latest",
+    "ts-standard": "^12.0.1",
     "turbo": "latest"
   },
   "engines": {
